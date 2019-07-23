@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EmployeeDbContext.dll.config
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EmployeeDbContext.dll
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EmployeeDbContext.pdb
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\Models.dll
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\Models.pdb
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\obj\Debug\EmployeeDbContext.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\obj\Debug\EmployeeDbContext.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\obj\Debug\EmployeeDbContext.dll
+C:\Users\Dell\source\repos\MVCEmployee\EmployeeDbContext\obj\Debug\EmployeeDbContext.pdb
